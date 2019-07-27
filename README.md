@@ -1,1 +1,2 @@
 # ssmProject
+Spring+SpringMVC+Mybatis
